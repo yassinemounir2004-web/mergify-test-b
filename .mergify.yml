@@ -1,0 +1,4 @@
+merge_protections:
+  - name: mergify b
+    if: []
+    success_conditions: []
